@@ -1,0 +1,18 @@
+{
+  "name": "your-keepass-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dropbox": "^2.5.1",
+    "keepass.io": "^1.1.4",
+    "node-telegram-bot-api": "^0.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abdulov-I-S",
+  "license": "ISC"
+}
